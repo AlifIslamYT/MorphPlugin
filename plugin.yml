@@ -1,0 +1,12 @@
+name: MorphPlugin
+version: 1.0
+main: com.yourname.morphplugin.MorphPlugin
+api-version: 1.21.1
+commands:
+  morph:
+    description: Morph into a mob
+    usage: /morph <mob>
+  player:
+    description: Revert to normal player
+    usage: /player
+    
